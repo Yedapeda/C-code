@@ -28,4 +28,5 @@ int main()
 	{
 		printf("\nNon Prime No.");
 	}
+	return 0;
 }
